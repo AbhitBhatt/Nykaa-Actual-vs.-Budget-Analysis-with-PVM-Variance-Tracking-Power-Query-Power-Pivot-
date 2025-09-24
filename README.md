@@ -195,7 +195,7 @@ It uses **Pivot Tables, Charts, and Variance Analysis**  to provide deep insight
 1. Clone this repo.  
 2. Open the Excel file to explore dashboards.  
 3. Review PNG screenshots in `/images` folder for preview.  
-Note: Here Excel workbook which i provided is just a snapshot of original one if you want the original raw Dataset (190 Mb) or entire Project (125 mb) with Power Query Connections and Power Pivot Data modelling contact me to my Email Address mention below
+Note: Here Excel workbook which i provided in GitHub repository is just a snapshot of original Workbook/Project if you want the original raw Dataset (190 Mb) or entire Project (125 mb) with Power Query Connections and Power Pivot Data modelling contact me to my Email Address mention below
 ---
 
 ### 📷 Data Model & Queries
